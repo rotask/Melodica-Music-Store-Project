@@ -1,5 +1,6 @@
 # Melodica-Music-Store-Project
-A project for Regeneration academy on Data Engineering 
+<h2 align="center">A project for Regeneration academy on Data Engineering 
+</h2>
 
 Introduction 
 Melodica Media Corp. is a multinational company headquartered in California, US that 
