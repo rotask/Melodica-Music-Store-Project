@@ -1,5 +1,5 @@
 <h1 align="center">Melodica-Music-Store-Project </h1>
-<h2 align="center">A project for Regeneration academy on Data Engineering 
+<h2 align="center">A team project for Regeneration academy on Data Engineering 
 </h2>
 
 <h3>Introduction</h3>
