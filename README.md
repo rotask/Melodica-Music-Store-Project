@@ -1,4 +1,4 @@
-<h1 align="center"># Melodica-Music-Store-Project </h1>
+<h1 align="center">Melodica-Music-Store-Project </h1>
 <h2 align="center">A project for Regeneration academy on Data Engineering 
 </h2>
 
