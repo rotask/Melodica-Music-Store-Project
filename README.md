@@ -1,6 +1,5 @@
 <h1 align="center">Melodica-Music-Store-Project </h1>
-<h2 align="center">A team project for Regeneration academy on Data Engineering 
-</h2>
+
 
 ![image](https://github.com/SpathisDim/Melodica-Music-Store-Project/assets/74098652/3c46bc32-1046-4c06-9794-cc44dd38a54b)
 
