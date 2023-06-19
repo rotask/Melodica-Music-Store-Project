@@ -1,4 +1,4 @@
-<h1 align="center">Music-Store-Project </h1>
+<h1 align="center">Melodica Music Store Project </h1>
 
 
 ![image](https://github.com/SpathisDim/Melodica-Music-Store-Project/assets/74098652/3c46bc32-1046-4c06-9794-cc44dd38a54b)
